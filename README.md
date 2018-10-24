@@ -26,6 +26,9 @@ If the input does not pass the FireWall, it will output: Your input is invalid<b
 If I have more time, I would like to further decrease the space complexity by using tree instead of unordered_map<br/>
 I am thinking that I could use the tree to store the information based on their characters like trie tree, and then, it will save alot of space
 
+### Time Spend
+I spend total of 75 minutes to finish this program
+
 ### Preference for Group
 I indeed prefer all of three groups, and the the preferance ranking from top to bottom is: <br/>
 Platform<br/>
